@@ -1,1 +1,3 @@
-# learn_notes
+## learn_note
+
+The notes contain numpy and python
